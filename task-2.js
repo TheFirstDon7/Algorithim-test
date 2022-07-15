@@ -16,4 +16,4 @@ function prime_numbers(n) {
     }
 }
 
-console.log(test_prime(37));
+console.log(prime_numbers(37));
